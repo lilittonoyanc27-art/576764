@@ -1,0 +1,6 @@
+{
+  "name": "Pole Chudes: ¿Qué harías tú? (Armenio - Español)",
+  "description": "Իսպաներեն-հայերեն իրավիճակային խաղ «Հրաշքների դաշտ» ոճով: Հիմնական բառը՝ APROXIMADAMENTE:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
